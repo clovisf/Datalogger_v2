@@ -1,0 +1,15 @@
+initial test:
+
+nov/12/2014 1:00:00AM
+- one measurement every 5 seconds
+- no leds at all! 
+- 400mAh battery
+- temp/humidity DHT11
+- temp LM35
+- temp/pressure/altitude BMP085
+- internal temp Atmel
+- Battery voltage
+
+temperature at 1:08:00 = 3C
+humidity 1:08:00 = 38%
+Pressure at 1:08:00 = 103kPA
