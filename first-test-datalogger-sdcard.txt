@@ -13,3 +13,7 @@ nov/12/2014 1:00:00AM
 temperature at 1:08:00 = 3C
 humidity 1:08:00 = 38%
 Pressure at 1:08:00 = 103kPA
+
+______________________________________________
+
+I have turned it off at 4:00:20AM, and the battery was still ok (around 3.55v) with measurements still being taken. Next time I will leave the circuit ON for longer
